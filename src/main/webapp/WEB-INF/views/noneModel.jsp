@@ -8,8 +8,8 @@
 </head>
 <body>
 	<h2>넘어온 data(model)</h2>
-	${ a }    == model.getAttribute("a") 
-	${ vo.a } == vo.getA() 
+	${ a }    == model.getAttribute("a") <br>
+	${ vo.a } == vo.getA() <br>
 	<p>a : ${ a }</p>
 	<p>b : ${ b }</p>
 	<br>
